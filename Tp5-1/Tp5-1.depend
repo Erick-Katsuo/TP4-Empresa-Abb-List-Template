@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1561406366 source:e:\algoritmos y programacion ii\tp5-1\main.cpp
+	<iostream>
+	"Empresa.h"
+
+1561474073 e:\algoritmos y programacion ii\tp5-1\abb.h
+	"Nodo_abb.h"
+
+1561324008 e:\algoritmos y programacion ii\tp5-1\nodo_abb.h
+	<iostream>
+
+1561415148 e:\algoritmos y programacion ii\tp5-1\individuo.h
+	"Cliente.h"
+
+1561414851 e:\algoritmos y programacion ii\tp5-1\cliente.h
+	<iostream>
+
+1561402000 source:e:\algoritmos y programacion ii\tp5-1\individuo.cpp
+	"Individuo.h"
+
+1561474169 source:e:\algoritmos y programacion ii\tp5-1\familia.cpp
+	"Familia.h"
+
+1561420599 e:\algoritmos y programacion ii\tp5-1\familia.h
+	"Lista.h"
+	"Cliente.h"
+
+1561323972 e:\algoritmos y programacion ii\tp5-1\lista.h
+	"Nodo.h"
+
+1561323972 e:\algoritmos y programacion ii\tp5-1\nodo.h
+	<iostream>
+
+1561473886 e:\algoritmos y programacion ii\tp5-1\empresa.h
+	"Abb.h"
+	"Individuo.h"
+	"Familia.h"
+	"Cliente.h"
+	<fstream>
+	<sstream>
+
+1561474042 source:e:\algoritmos y programacion ii\tp5-1\empresa.cpp
+	"Empresa.h"
+

@@ -1,0 +1,21 @@
+100,RRRRR DDD,GGGG DDDD,HHHH DDD
+200,hhhh
+50,GHHGH RRR,ADASD RRR,ASDASD RRR
+150,gggg
+30,jjjjjj
+25,dasasdsad
+40,asassdsda
+170,asdasdsadsad
+250,asdasdsadds
+10,234234234
+15,234234234
+5,234234234
+2,234234234
+1,234234234
+45,234234234333,sdasa
+11111,sdasa
+22,sdasasdasa
+14,sdasa
+55,sdasa
+1,sdasa
+2,sdasa11,sdasa111,sdasa,sdasa
